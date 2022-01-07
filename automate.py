@@ -54,37 +54,3 @@ for i in range(0, 3):
    	print("No Exception Found")
    finally:
    	print("All Set!!")
-    	
-    
-
-   
-   
-
-
-
-    
-
-
-
-
-
-# prf = browser.find_element_by_xpath("//div[6]/span/img") #for clickng right  corner image of your profile
-# prf.click()
-
-# sleep(3)
-
-# vew = browser.find_element_by_xpath("//div[2]/div[2]/a/div") #to click view profile
-# vew.click()
-
-# sleep(8)
-
-# prf = browser.find_element_by_xpath("//span/img")  #to click on profile image for logging out
-# prf.click()
-
-# sleep(3)
-
-# lgt = browser.find_element_by_xpath("//div[2]/div[2]/div[2]/div[2]/div") #click to logout
-# lgt.click()
-
-# sleep(5)
-# browser.close()  #ye browser driver close kar dega
